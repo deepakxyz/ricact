@@ -10,7 +10,7 @@ function Github(){
             <a href="https://github.com/deepakxyz" target="_">
             <h3 className="git-user-name">{"@" + Data['user-name']}</h3>
             </a>
-            <p className="git-email">{Data['email']}</p>
+            {/* <p className="git-email">{Data['email']}</p> */}
         </div> 
     )
 }

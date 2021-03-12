@@ -1,7 +1,18 @@
 .Home{
     color:var(--white);
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     flex-direction: column;
+    margin:0px;
+    paddding:0px;
+    height: 80vh;
+}
+
+.request-status{
+    font-size: 16px;
+}
+
+.para{
+    font-size: 26px;
 }
