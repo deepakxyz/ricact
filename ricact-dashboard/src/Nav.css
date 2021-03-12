@@ -1,0 +1,22 @@
+.Nav {
+  background-color: black;
+  font-family: "Poppins";
+  padding: 6px 12px;
+  color:brown;
+}
+
+.app-btn{
+  font-size: 15px;
+  background-color: #000;
+  color: #cdcdcd;
+  border-style: none;
+  border: 1px #cdcdcd solid;
+  cursor:pointer;
+}
+
+.app-btn:hover{
+  background-color: rgb(58, 58, 58);
+}
+
+
+
