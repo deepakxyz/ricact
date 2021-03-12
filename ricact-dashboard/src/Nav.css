@@ -3,6 +3,8 @@
   font-family: "Poppins";
   padding: 6px 12px;
   color:brown;
+  display: flex;
+  justify-content: space-between; 
 }
 
 .app-btn{

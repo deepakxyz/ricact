@@ -1,2 +1,2 @@
 # ricact
-React repo
+![](content/ricact.png)
