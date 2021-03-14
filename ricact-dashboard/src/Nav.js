@@ -12,6 +12,9 @@ function Nav() {
       <Link to='/github'>
      <button className="app-btn">Github</button> 
       </Link>
+      <Link to='/todo'>
+     <button className="app-btn">Todo</button> 
+      </Link>
       </div>
       <div className="Side">
       <Link to='/'>

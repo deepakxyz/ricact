@@ -27,6 +27,7 @@ body {
   margin: 0;
   font-family:'Karla', sans-serif; 
   background-color: #1b1b1b;
+  color : var(--white);
   padding: 0px;
 }
 
@@ -46,4 +47,19 @@ p {
   font-size:40px;
   padding:30px 0px 0 0;
   margin:0px;
+}
+
+
+.btn{
+  font-size: 15px;
+  color:var(--white); 
+  border-style: none;
+  border: 1px #cdcdcd solid;
+  background-color:var(--green);
+  cursor:pointer;
+  margin: 10px 10px;
+}
+
+.btn:hover{
+  background-color:var(--background-color); 
 }
